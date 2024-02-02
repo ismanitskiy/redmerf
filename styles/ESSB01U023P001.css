@@ -1,0 +1,1182 @@
+@font-face{font-family:"CronosPro-Semibold";src:url('../fonts/CronosPro-Semibold.otf');}
+@font-face{font-family:"CronosPro-Regular";src:url('../fonts/CronosPro-Regular.otf');}
+@font-face{font-family:"CronosPro-LtIt";src:url('../fonts/CronosPro-LtIt.otf');}
+@font-face{font-family:"CronosPro-Lt";src:url('../fonts/CronosPro-Lt.otf');}
+@font-face{font-family:"CronosPro-Bold";src:url('../fonts/CronosPro-Bold.otf');}
+body {
+position: absolute;
+width: 1024px;
+height:1365px;
+left:0px;
+margin:0px;
+}
+.span0 {
+color:#CB0307;
+}
+.cls005ClsTxt0 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:33.768269px;
+top:17px;
+left:43.807484px;
+letter-spacing:0px;
+color:#FFFFFF;
+}
+.span1 {
+color:#CB0307;
+}
+.cls005ClsTxt1 {
+position:absolute;
+font-family:'CronosPro-Bold';
+font-size:22.816399px;
+top:119px;
+left:106.868088px;
+letter-spacing:0px;
+color:#FEFF59;
+}
+.span2 {
+color:#CB0307;
+}
+.cls005ClsTxt2 {
+position:absolute;
+font-family:'CronosPro-Bold';
+font-size:22.816399px;
+top:426px;
+left:108.693398px;
+letter-spacing:0px;
+color:#FEFF59;
+}
+.span3 {
+color:#CB0307;
+}
+.cls005ClsTxt3 {
+position:absolute;
+font-family:'CronosPro-Bold';
+font-size:22.816399px;
+top:736px;
+left:106.868088px;
+letter-spacing:0px;
+color:#FEFF59;
+}
+.span4 {
+color:#CB0307;
+}
+.cls005ClsTxt4 {
+position:absolute;
+font-family:'CronosPro-Bold';
+font-size:22.816399px;
+top:944px;
+left:104.042778px;
+letter-spacing:0px;
+color:#FEFF59;
+}
+.span5 {
+color:#CB0307;
+}
+.span5 {
+font-family:'CronosPro-Regular';
+font-size:38.331551px;
+}
+.cls005ClsTxt5 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:38.331551px;
+top:60px;
+left:149.675583px;
+letter-spacing:0px;
+color:#FFFFFF;
+}
+.span6 {
+color:#CB0307;
+}
+.cls005ClsTxt6 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:118px;
+left:148.675583px;
+letter-spacing:0px;
+color:#030506;
+}
+.span7 {
+color:#CB0307;
+}
+.cls005ClsTxt7 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:162px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span8 {
+color:#CB0307;
+}
+.cls005ClsTxt8 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:162px;
+left:240.941162px;
+letter-spacing:0px;
+color:#030506;
+}
+.span9 {
+color:#CB0307;
+}
+.cls005ClsTxt9 {
+position:absolute;
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+top:186px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span10 {
+color:#CB0307;
+}
+.span10 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt10 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:220px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span11 {
+color:#CB0307;
+}
+.cls005ClsTxt11 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:162px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span12 {
+color:#CB0307;
+}
+.span12 {
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+}
+.cls005ClsTxt12 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:162px;
+left:562.196045px;
+letter-spacing:0px;
+color:#030506;
+}
+.span13 {
+color:#CB0307;
+}
+.cls005ClsTxt13 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:186px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span14 {
+color:#CB0307;
+}
+.cls005ClsTxt14 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:186px;
+left:454.502655px;
+letter-spacing:0px;
+color:#030506;
+}
+.span15 {
+color:#CB0307;
+}
+.cls005ClsTxt15 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:186px;
+left:553.069519px;
+letter-spacing:0px;
+color:#030506;
+}
+.span16 {
+color:#CB0307;
+}
+.cls005ClsTxt16 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:210px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span17 {
+color:#CB0307;
+}
+.cls005ClsTxt17 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:210px;
+left:487.358276px;
+letter-spacing:0px;
+color:#030506;
+}
+.span18 {
+color:#CB0307;
+}
+.cls005ClsTxt18 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:210px;
+left:516.563232px;
+letter-spacing:0px;
+color:#030506;
+}
+.span19 {
+color:#CB0307;
+}
+.cls005ClsTxt19 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:210px;
+left:549.418884px;
+letter-spacing:0px;
+color:#030506;
+}
+.span20 {
+color:#CB0307;
+}
+.cls005ClsTxt20 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:210px;
+left:598.702332px;
+letter-spacing:0px;
+color:#030506;
+}
+.span21 {
+color:#CB0307;
+}
+.cls005ClsTxt21 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:425px;
+left:149.675583px;
+letter-spacing:0px;
+color:#030506;
+}
+.span22 {
+}
+.span22 {
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+}
+.cls005ClsTxt22 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:469px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span23 {
+color:#CB0307;
+}
+.cls005ClsTxt23 {
+position:absolute;
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+top:493px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span25 {
+color:#CB0307;
+}
+.cls005ClsTxt25 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:527px;
+left:160.356506px;
+letter-spacing:0px;
+color:#030506;
+}
+.span26 {
+}
+.span26 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt26 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:469px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span27 {
+color:#CB0307;
+}
+.span27 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt27 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:493px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span28 {
+color:#CB0307;
+}
+.span28 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt28 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:516px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span29 {
+color:#CB0307;
+}
+.span29 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt29 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:570px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span30 {
+color:#CB0307;
+}
+.span30 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt30 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:593px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span31 {
+color:#CB0307;
+}
+.cls005ClsTxt31 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:617px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span32 {
+color:#CB0307;
+}
+.cls005ClsTxt32 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:640px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span33 {
+color:#CB0307;
+}
+.span33 {
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+}
+.cls005ClsTxt33 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:569px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span34 {
+color:#CB0307;
+}
+.cls005ClsTxt34 {
+position:absolute;
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+top:593px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span36 {
+color:#CB0307;
+}
+.cls005ClsTxt36 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:628px;
+left:160.356506px;
+letter-spacing:0px;
+color:#030506;
+}
+.span37 {
+color:#CB0307;
+}
+.cls005ClsTxt37 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:737px;
+left:149.675583px;
+letter-spacing:0px;
+color:#030506;
+}
+.span38 {
+color:#CB0307;
+}
+.span38 {
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+}
+.cls005ClsTxt38 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:779px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span39 {
+color:#CB0307;
+}
+.cls005ClsTxt39 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:779px;
+left:536.641724px;
+letter-spacing:0px;
+color:#030506;
+}
+.span40 {
+color:#CB0307;
+}
+.cls005ClsTxt40 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:803px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span41 {
+color:#CB0307;
+}
+.cls005ClsTxt41 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:803px;
+left:478.231720px;
+letter-spacing:0px;
+color:#030506;
+}
+.span42 {
+color:#CB0307;
+}
+.cls005ClsTxt42 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:803px;
+left:543.942932px;
+letter-spacing:0px;
+color:#030506;
+}
+.span43 {
+color:#CB0307;
+}
+.cls005ClsTxt43 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:827px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span44 {
+color:#CB0307;
+}
+.cls005ClsTxt44 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:827px;
+left:478.231720px;
+letter-spacing:0px;
+color:#030506;
+}
+.span45 {
+color:#CB0307;
+}
+.cls005ClsTxt45 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:827px;
+left:574.973267px;
+letter-spacing:0px;
+color:#030506;
+}
+.span46 {
+color:#CB0307;
+}
+.cls005ClsTxt46 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:850px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span47 {
+color:#CB0307;
+}
+.cls005ClsTxt47 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:850px;
+left:494.659515px;
+letter-spacing:0px;
+color:#030506;
+}
+.span48 {
+color:#CB0307;
+}
+.cls005ClsTxt48 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:850px;
+left:536.641724px;
+letter-spacing:0px;
+color:#030506;
+}
+.span49 {
+color:#CB0307;
+}
+.cls005ClsTxt49 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:850px;
+left:655.286926px;
+letter-spacing:0px;
+color:#030506;
+}
+.span50 {
+color:#CB0307;
+}
+.span50 {
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+}
+.cls005ClsTxt50 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:779px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span51 {
+color:#CB0307;
+}
+.cls005ClsTxt51 {
+position:absolute;
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+top:803px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span52 {
+color:#CB0307;
+}
+.span52 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt52 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:838px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span53 {
+color:#CB0307;
+}
+.cls005ClsTxt53 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:945px;
+left:149.675583px;
+letter-spacing:0px;
+color:#030506;
+}
+.span54 {
+color:#CB0307;
+}
+.span54 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt54 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:945px;
+left:251.893036px;
+letter-spacing:0px;
+color:#030506;
+}
+.span55 {
+color:#CB0307;
+}
+.cls005ClsTxt55 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:945px;
+left:339.507996px;
+letter-spacing:0px;
+color:#030506;
+}
+.span56 {
+color:#CB0307;
+}
+.cls005ClsTxt56 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:945px;
+left:478.231720px;
+letter-spacing:0px;
+color:#030506;
+}
+.span57 {
+color:#CB0307;
+}
+.span57 {
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+}
+.cls005ClsTxt57 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:987px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span58 {
+color:#CB0307;
+}
+.cls005ClsTxt58 {
+position:absolute;
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+top:1011px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span59 {
+color:#CB0307;
+}
+.cls005ClsTxt59 {
+position:absolute;
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+top:1035px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span60 {
+color:#CB0307;
+}
+.span60 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt60 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1068px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span61 {
+color:#CB0307;
+}
+.span61 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt61 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:987px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span62 {
+color:#CB0307;
+}
+.span62 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt62 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1011px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span63 {
+color:#CB0307;
+}
+.cls005ClsTxt63 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1035px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span64 {
+color:#CB0307;
+}
+.cls005ClsTxt64 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1058px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span65 {
+color:#CB0307;
+}
+.cls005ClsTxt65 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:1113px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span66 {
+color:#CB0307;
+}
+.span66 {
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+}
+.cls005ClsTxt66 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1113px;
+left:191.657745px;
+letter-spacing:0px;
+color:#030506;
+}
+.span67 {
+color:#CB0307;
+}
+.cls005ClsTxt67 {
+position:absolute;
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+top:1137px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span68 {
+color:#CB0307;
+}
+.cls005ClsTxt68 {
+position:absolute;
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+top:1161px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span69 {
+color:#CB0307;
+}
+.span69 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt69 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1194px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span70 {
+color:#CB0307;
+}
+.cls005ClsTxt70 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1113px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span71 {
+color:#CB0307;
+}
+.cls005ClsTxt71 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:1113px;
+left:449.026733px;
+letter-spacing:0px;
+color:#030506;
+}
+.span72 {
+color:#CB0307;
+}
+.cls005ClsTxt72 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1113px;
+left:553.069519px;
+letter-spacing:0px;
+color:#030506;
+}
+.span73 {
+color:#CB0307;
+}
+.cls005ClsTxt73 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1137px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span74 {
+color:#CB0307;
+}
+.cls005ClsTxt74 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:1137px;
+left:454.502655px;
+letter-spacing:0px;
+color:#030506;
+}
+.span75 {
+color:#CB0307;
+}
+.cls005ClsTxt75 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1137px;
+left:543.942932px;
+letter-spacing:0px;
+color:#030506;
+}
+.span76 {
+color:#CB0307;
+}
+.cls005ClsTxt76 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1161px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span77 {
+color:#CB0307;
+}
+.cls005ClsTxt77 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:1161px;
+left:525.689819px;
+letter-spacing:0px;
+color:#030506;
+}
+.span78 {
+color:#CB0307;
+}
+.cls005ClsTxt78 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1161px;
+left:556.720093px;
+letter-spacing:0px;
+color:#030506;
+}
+.span79 {
+color:#CB0307;
+}
+.cls005ClsTxt79 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:20.078430px;
+top:1161px;
+left:675.365417px;
+letter-spacing:0px;
+color:#030506;
+}
+.span80 {
+color:#CB0307;
+}
+.cls005ClsTxt80 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:1161px;
+left:699.094482px;
+letter-spacing:0px;
+color:#030506;
+}
+.span81 {
+color:#CB0307;
+}
+.span81 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt81 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:263px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span82 {
+color:#CB0307;
+}
+.cls005ClsTxt82 {
+position:absolute;
+font-family:'CronosPro-LtIt';
+font-size:20.078430px;
+top:286px;
+left:160.627441px;
+letter-spacing:0px;
+color:#030506;
+}
+.span84 {
+color:#CB0307;
+}
+.cls005ClsTxt84 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:321px;
+left:160.356506px;
+letter-spacing:0px;
+color:#030506;
+}
+.span85 {
+color:#CB0307;
+}
+.span85 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt85 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:263px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span86 {
+color:#CB0307;
+}
+.span86 {
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+}
+.cls005ClsTxt86 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:286px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span87 {
+color:#CB0307;
+}
+.cls005ClsTxt87 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:20.078430px;
+top:310px;
+left:439.900177px;
+letter-spacing:0px;
+color:#030506;
+}
+.span88 {
+color:#CB0307;
+}
+.cls005ClsTxt88 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:50.196075px;
+top:45px;
+left:47.458111px;
+letter-spacing:0px;
+color:#FFFFFF;
+}
+.span89 {
+color:#CB0307;
+}
+.cls005ClsTxt89 {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size:18.253120px;
+top:1318px;
+left:162.452759px;
+letter-spacing:0px;
+color:#030506;
+}
+.span91 {
+color:#CB0307;
+}
+.cls005ClsTxt91 {
+position:absolute;
+font-family:'CronosPro-Semibold';
+font-size:18.253120px;
+top:1318px;
+left:281.098022px;
+letter-spacing:0px;
+color:#CB0307;
+}
+.span5a
+{
+font-family:'CronosPro-Regular';
+}
+.span5i
+{
+font-family:'CronosPro-LtIt';
+}
+.span5b
+{
+font-family:'CronosPro-Semibold';
+}
+.span56r {
+font-family:'CronosPro-Semibold';
+font-size:18.078430px;
+color:#c00b0d;
+}
+
+
+.underline1234
+{
+color:#000000;
+text-decoration:underline;
+}

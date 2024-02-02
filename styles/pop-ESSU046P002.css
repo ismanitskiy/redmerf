@@ -1,0 +1,545 @@
+@font-face{font-family:"TektonPro-Regular";src:url('../fonts/TektonPro-Regular.otf');}
+@font-face{font-family:"SourceSansPro-Semibold";src:url('../fonts/SourceSansPro-Semibold.otf');}
+@font-face{font-family:"SourceSansPro-Regular";src:url('../fonts/SourceSansPro-Regular.otf');}
+@font-face{font-family:"SourceSansPro-Light";src:url('../fonts/SourceSansPro-Light.otf');}
+@font-face{font-family:"SourceSansPro-It";src:url('../fonts/SourceSansPro-It.otf');}
+@font-face{font-family:"SourceSansPro-Bold";src:url('../fonts/SourceSansPro-Bold.otf');}
+@font-face{font-family:"CronosPro-Semibold";src:url('../fonts/CronosPro-Semibold.otf');}
+@font-face{font-family:"CronosPro-Regular";src:url('../fonts/CronosPro-Regular.otf');}
+@font-face{font-family:"CronosPro-Lt";src:url('../fonts/CronosPro-Lt.otf');}
+body {
+position: absolute;
+width:962px;
+height:1310px;
+left:0px;
+margin:0px;
+}
+.header {
+position:relative;
+border-top-left-radius:22px;
+border-top-right-radius:22px;
+width:962px;
+height:58px;
+background-color:#c02012;
+}
+.exe {
+position:relative;
+font-family:'SourceSansPro-Bold';
+font-size:25px;
+color:#ffffff;
+padding-top:12px;
+margin-left:35px;
+}
+.rubric {
+position:relative;
+font-family:'CronosPro-Regular';
+font-size:27px;
+margin-top:22px;
+margin-left:35px;
+}
+.rubric1 {
+position:relative;
+font-family:'SourceSansPro-Regular';
+font-size:27px;
+margin-top:22px;
+margin-left:35px;
+}
+.question-top {
+position:absolute;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:24px;
+margin-left:37px;
+}
+.question {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:0px;
+margin-left:35px;
+}
+.question1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:0px;
+margin-left:40px;
+}
+.question-hang {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:21px;
+margin-left:80px;
+text-indent:-40px;
+}
+.questions {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:22px;
+margin-left:45px;
+}
+.questionsbb2 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:22px;
+margin-left:20px;
+}
+.questionsaa {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+text-align:right;
+margin-top:20px;
+left:20px;
+}
+.questionsaas {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+text-align:right;
+margin-top:20px;
+left:13px;
+}
+.questionsaas1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:13px;
+width:535px;
+left:13px;
+}
+.questions2aa {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:40px;
+margin-left:25px;
+}
+.questions2aa1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:40px;
+margin-left:25px;
+}
+.questions2aa1ss {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:53px;
+margin-left:25px;
+}
+.questions2aa1s {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:52px;
+margin-left:25px;
+}
+.questions2aa2 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:29px;
+margin-left:25px;
+}
+.questions2aa3 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:34px;
+margin-left:25px;
+}
+.questions1a {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:17px;
+margin-left:15px;
+}
+.questions1a1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:68px;
+margin-left:15px;
+}
+.questions1a1ss {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:67px;
+margin-left:15px;
+}
+.questions1a1s {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:66px;
+margin-left:15px;
+}
+.questions1a1a {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:33px;
+margin-left:15px;
+}
+.questions1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:32px;
+margin-left:15px;
+}
+.tquestions {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+padding-top:10px;
+margin-bottom:0px;
+margin-left:20px;
+}
+span.bold
+{
+font-family:'SourceSansPro-Semibold';
+}
+span.italic
+{
+font-family:'SourceSansPro-It';
+}
+.answer
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+background-color:#ffff99;
+margin:10px 30px 10px 25px;
+padding:10px 25px 10px 15px;
+}
+.answersss
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+background-color:#ffff99;
+margin-left:65px;
+width:823px;
+margin-top:-5px;
+margin-bottom:15px;
+padding:10px 25px 10px 15px;
+}
+.answer1
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+width:530px;
+border-radius:25px;
+background-color:#ffff99;
+margin:10px 30px 10px 25px;
+padding:10px 25px 10px 15px;
+}
+.answer3
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:26px;
+width:530px;
+border-radius:25px;
+background-color:#ffff99;
+margin:10px 30px 10px 25px;
+padding:10px 25px 10px 15px;
+}
+.answer1ss
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+width:462px;
+border-radius:25px;
+background-color:#ffff99;
+margin-top:10px;
+margin-bottom:0px;
+margin-left:25px;
+padding:10px 25px 10px 15px;
+}
+.answer1ssa
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+width:462px;
+border-radius:25px;
+background-color:#ffff99;
+margin-top:10px;
+margin-bottom:9px;
+margin-left:25px;
+padding:10px 25px 10px 15px;
+}
+.answeraa
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+background-color:#ffff99;
+margin:10px 30px 10px 70px;
+padding:10px 25px 10px 15px;
+}
+.answeraas
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+background-color:#ffff99;
+margin-top:65px;
+margin-left:70px;
+padding:10px 25px 10px 15px;
+}
+.blank
+{
+position:relative;
+font-family:'CronosPro-Lt';
+border-radius:25px;
+background-color:#ffffff;
+margin:10px 30px 10px 25px;
+padding:10px 25px 10px 15px;
+}
+.blank1
+{
+position:relative;
+font-family:'CronosPro-Lt';
+margin-top:-10px;
+background-color:#ffffff;
+}
+.danswer
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+background-color:#ffffff;
+margin:10px 30px 10px 70px;
+padding:10px 25px 10px 15px;
+}
+.tanswer
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+background-color:#ffff99;
+padding:10px 25px 10px 15px;
+}
+.question-1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:21px;
+margin-left:27px;
+}
+.leftpadding
+{
+position:relative;
+margin-left:240px;
+margin-top:140px;
+}
+.outline1 {
+position:relative;
+left:35px;
+top:20px;
+border:2px solid #f7d6ae;
+border-radius:10px;
+width:510px;
+height:50px;
+}
+.question3 {
+position:relative;
+font-family:'CronosPro-Semibold';
+font-size: 27px;
+margin-top:8px;
+margin-left:11px;
+}
+.cls046ClsTxt80 {
+z-index:1;
+position:absolute;
+font-family:'TektonPro-Regular';
+font-size:20.078430px;
+top:614px;
+text-align:center;
+left:56.495514px;
+letter-spacing:0px;
+color:#000000;
+line-height:115%;
+}
+.cls046ClsTxt81 {
+z-index:1;
+position:absolute;
+font-family:'TektonPro-Regular';
+font-size:20.078430px;
+top:689px;
+text-align:center;
+left:149.495514px;
+letter-spacing:0px;
+color:#000000;
+line-height:115%;
+}
+.cls046ClsTxt82 {
+z-index:1;
+position:absolute;
+font-family:'TektonPro-Regular';
+font-size:20.078430px;
+top:754px;
+text-align:center;
+left:116.495514px;
+letter-spacing:0px;
+color:#000000;
+line-height:115%;
+}
+.question-tops {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:38px;
+margin-left:35px;
+}
+.questiona {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:15px;
+margin-bottom:15px;
+margin-left:65px;
+}
+.questionsaass46 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+text-align:right;
+margin-top:20px;
+margin-left:22px;
+}
+.questionsaa1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+text-align:right;
+margin-top:35px;
+margin-left:22px;
+}
+.answer2
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+margin-top:28px;
+background-color:#ffffff;
+}
+.answer2ssa
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+margin-top:28px;
+margin-bottom:10px;
+background-color:#ffffff;
+}
+.answer2ssa1
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+margin-top:28px;
+margin-bottom:20px;
+background-color:#ffffff;
+}
+.answer2ss
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+margin-top:28px;
+margin-bottom:5px;
+background-color:#ffffff;
+}
+.questionsaa2 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+text-align:right;
+margin-top:15px;
+margin-left:22px;
+}
+.questions1an-1a {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:25px;
+margin-right:10px;
+text-align:right;
+word-spacing:-1px;
+}
+.questions1an-1ass {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 26px;
+margin-top:25px;
+margin-right:10px;
+text-align:right;
+word-spacing:-1px;
+}
+.questions1a-1aaa {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:25px;
+margin-left:35px;
+}
+.questions1a-1aaa2 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:0px;
+margin-left:35px;
+}
+.danswer-box
+{
+position:relative;
+font-family:'CronosPro-Lt';
+font-size:27px;
+border-radius:25px;
+background-color:#ffffff;
+margin:10px 0px 0px 0px;
+padding:10px 25px 10px 15px;
+}
+.answer1-box
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+margin:10px 10px 0px 20px;
+padding:10px 25px 10px 15px;
+}
+.answer1sa
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:26px;
+width:410px;
+border-radius:25px;
+background-color:#ffff99;
+margin:10px 30px 0px 20px;
+padding:10px 25px 10px 15px;
+}

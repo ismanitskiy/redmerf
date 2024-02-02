@@ -1,0 +1,257 @@
+@font-face{font-family:"SourceSansPro-Semibold";src:url('../fonts/SourceSansPro-Semibold.otf');}
+@font-face{font-family:"SourceSansPro-Light";src:url('../fonts/SourceSansPro-Light.otf');}
+@font-face{font-family:"SourceSansPro-It";src:url('../fonts/SourceSansPro-It.otf');}
+@font-face{font-family:"SourceSansPro-Bold";src:url('../fonts/SourceSansPro-Bold.otf');}
+@font-face{font-family:"CronosPro-Semibold";src:url('../fonts/CronosPro-Semibold.otf');}
+@font-face{font-family:"CronosPro-Regular";src:url('../fonts/CronosPro-Regular.otf');}
+@font-face{font-family:"CronosPro-Lt";src:url('../fonts/CronosPro-Lt.otf');}
+@font-face{font-family:"CronosPro-Italic";src:url('../fonts/CronosPro-Italic.otf');}
+body {
+position: absolute;
+width:962px;
+height:1310px;
+left:0px;
+margin:0px;
+}
+.outline1 {
+position:relative;
+left:40px;
+top:20px;
+border:2px solid #f7d6ae;
+border-radius:10px;
+width:610px;
+height:50px;
+}
+.header {
+position:relative;
+border-top-left-radius:22px;
+border-top-right-radius:22px;
+width:962px;
+height:58px;
+background-color:#c02012;
+}
+.exe {
+position:relative;
+font-family:'SourceSansPro-Bold';
+font-size:25px;
+color:#ffffff;
+padding-top:12px;
+margin-left:35px;
+}
+.rubric {
+position:relative;
+font-family:'CronosPro-Regular';
+font-size:27px;
+margin-top:22px;
+margin-left:35px;
+}
+.rubric0 {
+position:relative;
+font-family:'CronosPro-Regular';
+font-size:27px;
+margin-top:0px;
+margin-left:35px;
+}
+.rubric1 {
+position:relative;
+font-family:'CronosPro-Regular';
+font-size:27px;
+margin-top:42px;
+margin-left:35px;
+}
+.question-top {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:22px;
+margin-left:40px;
+}
+.question {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:21px;
+margin-left:35px;
+}
+.question1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:10px;
+margin-left:35px;
+}
+.question2 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:21px;
+margin-left:73px;
+}
+.question3 {
+position:relative;
+font-family:'CronosPro-Semibold';
+font-size: 27px;
+margin-top:6px;
+margin-left:11px;
+}
+.answer
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+background-color:#ffff99;
+margin:10px 30px 10px 70px;
+padding:10px 15px 10px 15px;
+}
+.leftpadding
+{
+position:relative;
+margin-left:180px;
+margin-top:40px;
+}
+span.bold
+{
+font-family:'SourceSansPro-Semibold';
+}
+span.italic
+{
+font-family:'SourceSansPro-It';
+}
+.tanswer
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+background-color:#ffff99;
+padding:10px 15px 10px 15px;
+}
+.text
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+margin-left:15px;
+margin-top:5px;
+}
+.text1
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:22px;
+left:59px;
+top:193px;
+}
+.text2
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:27px;
+left:183px;
+top:184px;
+}
+.text3
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:22px;
+left:283px;
+top:188px;
+}
+.text4
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:22px;
+left:100px;
+top:342px;
+}
+.text5
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:22px;
+left:230px;
+top:342px;
+}
+.text6
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:27px;
+left:303px;
+top:285px;
+}
+.text7
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:22px;
+left:344px;
+top:342px;
+}
+.text8
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:22px;
+left:342px;
+top:418px;
+}
+.text9
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:22px;
+left:125px;
+top:427px;
+}
+.text10
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:22px;
+left:325px;
+top:427px;
+}
+.text11
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:22px;
+left:472px;
+top:427px;
+}
+.text12
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:22px;
+left:647px;
+top:427px;
+}
+.text13
+{
+position:absolute;
+font-family:'CronosPro-Italic';
+font-size:22px;
+left:842px;
+top:427px;
+}
+.tquestions {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:22px;
+margin-left:20px;
+}
+.danswer
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+margin-top:15px;
+padding:10px 25px 10px 10px;
+}

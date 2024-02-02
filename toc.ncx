@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta name="dtb:uid" content="9781107644090"/>
+<meta name="dtb:depth" content="0"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Essential Grammar in Use</text></docTitle>
+<navMap>
+<navPoint id="nav1" playOrder="1"><navLabel><text>How to use this eBook 1</text></navLabel><content src="html/Howtousethisbook1.html"/></navPoint>
+<navPoint id="nav2" playOrder="2"><navLabel><text>How to use this eBook 2</text></navLabel><content src="html/Howtousethisbook2.html"/></navPoint>
+<navPoint id="nav3" playOrder="3"><navLabel><text>How to use this eBook 3</text></navLabel><content src="html/Howtousethisbook3.html"/></navPoint>
+<navPoint id="nav4" playOrder="4"><navLabel><text>Contents</text></navLabel><content src="html/contents.html"/></navPoint>
+<navPoint id="nav5" playOrder="5"><navLabel><text>Search</text></navLabel><content src="html/searchindex.html"/></navPoint>
+<navPoint id="nav6" playOrder="6"><navLabel><text>To the student</text></navLabel><content src="html/tothestudent.html"/></navPoint>
+<navPoint id="nav7" playOrder="7"><navLabel><text>To the teacher</text></navLabel><content src="html/totheteacher.html"/></navPoint>
+<navPoint id="nav8" playOrder="8"><navLabel><text>Present</text></navLabel><content src="html/ESSB01U001P001.html"/>
+<navPoint id="nav9" playOrder="9"><navLabel><text>Unit 1: am/is/are</text></navLabel><content src="html/ESSB01U001P001.html#ch01"/>
+<navPoint id="nav10" playOrder="10"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U001P001.html#unit1"/></navPoint>
+<navPoint id="nav11" playOrder="11"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U001P002.html"/></navPoint></navPoint>
+<navPoint id="nav12" playOrder="12"><navLabel><text>Unit 2: am/is/are (questions)</text></navLabel><content src="html/ESSB01U002P001.html"/>
+<navPoint id="nav13" playOrder="13"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U002P001.html#unit2"/></navPoint>
+<navPoint id="nav14" playOrder="14"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U002P002.html"/></navPoint></navPoint>
+<navPoint id="nav15" playOrder="15"><navLabel><text>Unit 3: I am doing (present continuous)</text></navLabel><content src="html/ESSB01U003P001.html"/>
+<navPoint id="nav16" playOrder="16"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U003P001.html#unit3"/></navPoint>
+<navPoint id="nav17" playOrder="17"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U003P002.html"/></navPoint></navPoint>
+<navPoint id="nav18" playOrder="18"><navLabel><text>Unit 4: are you doing? (present continuous questions)</text></navLabel><content src="html/ESSB01U004P001.html"/>
+<navPoint id="nav19" playOrder="19"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U004P001.html#unit4"/></navPoint>
+<navPoint id="nav20" playOrder="20"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U004P002.html"/></navPoint></navPoint>
+<navPoint id="nav21" playOrder="21"><navLabel><text>Unit 5: I do/work/like etc. (present simple)</text></navLabel><content src="html/ESSB01U005P001.html"/>
+<navPoint id="nav22" playOrder="22"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U005P001.html#unit5"/></navPoint>
+<navPoint id="nav23" playOrder="23"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U005P002.html"/></navPoint></navPoint>
+<navPoint id="nav24" playOrder="24"><navLabel><text>Unit 6: I don&#8217;t &#8230; (present simple negative)</text></navLabel><content src="html/ESSB01U006P001.html"/>
+<navPoint id="nav25" playOrder="25"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U006P001.html#unit6"/></navPoint>
+<navPoint id="nav26" playOrder="26"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U006P002.html"/></navPoint></navPoint>
+<navPoint id="nav27" playOrder="27"><navLabel><text>Unit 7: Do you &#8230; ? (present simple questions)</text></navLabel><content src="html/ESSB01U007P001.html"/>
+<navPoint id="nav28" playOrder="28"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U007P001.html#unit7"/></navPoint>
+<navPoint id="nav29" playOrder="29"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U007P002.html"/></navPoint></navPoint>
+<navPoint id="nav30" playOrder="30"><navLabel><text>Unit 8: I am doing (present continuous) and I do (present simple)</text></navLabel><content src="html/ESSB01U008P001.html"/>
+<navPoint id="nav31" playOrder="31"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U008P001.html#unit8"/></navPoint>
+<navPoint id="nav32" playOrder="32"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U008P002.html"/></navPoint></navPoint>
+<navPoint id="nav33" playOrder="33"><navLabel><text>Unit 9: I have &#8230; and I&#8217;ve got &#8230;</text></navLabel><content src="html/ESSB01U009P001.html"/>
+<navPoint id="nav34" playOrder="34"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U009P001.html#unit9"/></navPoint>
+<navPoint id="nav35" playOrder="35"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U009P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav36" playOrder="36"><navLabel><text>Past</text></navLabel><content src="html/ESSB01U010P001.html"/>
+<navPoint id="nav37" playOrder="37"><navLabel><text>Unit 10: was/were</text></navLabel><content src="html/ESSB01U010P001.html#ch02"/>
+<navPoint id="nav38" playOrder="38"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U010P001.html#unit10"/></navPoint>
+<navPoint id="nav39" playOrder="39"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U010P002.html"/></navPoint></navPoint>
+<navPoint id="nav40" playOrder="40"><navLabel><text>Unit 11: worked/got/went etc. (past simple)</text></navLabel><content src="html/ESSB01U011P001.html"/>
+<navPoint id="nav41" playOrder="41"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U011P001.html#unit11"/></navPoint>
+<navPoint id="nav42" playOrder="42"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U011P002.html"/></navPoint></navPoint>
+<navPoint id="nav43" playOrder="43"><navLabel><text>Unit 12: I didn&#8217;t &#8230; Did you &#8230; ? (past simple negative and questions)</text></navLabel><content src="html/ESSB01U012P001.html"/>
+<navPoint id="nav44" playOrder="44"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U012P001.html#unit12"/></navPoint>
+<navPoint id="nav45" playOrder="45"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U012P002.html"/></navPoint></navPoint>
+<navPoint id="nav46" playOrder="46"><navLabel><text>Unit 13: I was doing (past continuous)</text></navLabel><content src="html/ESSB01U013P001.html"/>
+<navPoint id="nav47" playOrder="47"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U013P001.html#unit13"/></navPoint>
+<navPoint id="nav48" playOrder="48"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U013P002.html"/></navPoint></navPoint>
+<navPoint id="nav49" playOrder="49"><navLabel><text>Unit 14: I was doing (past continuous) and I did (past simple)</text></navLabel><content src="html/ESSB01U014P001.html"/>
+<navPoint id="nav50" playOrder="50"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U014P001.html#unit14"/></navPoint>
+<navPoint id="nav51" playOrder="51"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U014P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav52" playOrder="52"><navLabel><text>Present perfect</text></navLabel><content src="html/ESSB01U015P001.html"/>
+<navPoint id="nav53" playOrder="53"><navLabel><text>Unit 15: I have done (present perfect 1)</text></navLabel><content src="html/ESSB01U015P001.html#ch03"/>
+<navPoint id="nav54" playOrder="54"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U015P001.html#unit15"/></navPoint>
+<navPoint id="nav55" playOrder="55"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U015P002.html"/></navPoint></navPoint>
+<navPoint id="nav56" playOrder="56"><navLabel><text>Unit 16: I&#8217;ve just &#8230; I&#8217;ve already &#8230; I haven&#8217;t &#8230; yet (present perfect 2)</text></navLabel><content src="html/ESSB01U016P001.html"/>
+<navPoint id="nav57" playOrder="57"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U016P001.html#unit16"/></navPoint>
+<navPoint id="nav58" playOrder="58"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U016P002.html"/></navPoint></navPoint>
+<navPoint id="nav59" playOrder="59"><navLabel><text>Unit 17: Have you ever &#8230; ? (present perfect 3)</text></navLabel><content src="html/ESSB01U017P001.html"/>
+<navPoint id="nav60" playOrder="60"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U017P001.html#unit17"/></navPoint>
+<navPoint id="nav61" playOrder="61"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U017P002.html"/></navPoint></navPoint>
+<navPoint id="nav62" playOrder="62"><navLabel><text>Unit 18: How long have you &#8230; ? (present perfect 4)</text></navLabel><content src="html/ESSB01U018P001.html"/>
+<navPoint id="nav63" playOrder="63"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U018P001.html#unit18"/></navPoint>
+<navPoint id="nav64" playOrder="64"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U018P002.html"/></navPoint></navPoint>
+<navPoint id="nav65" playOrder="65"><navLabel><text>Unit 19: for since ago</text></navLabel><content src="html/ESSB01U019P001.html"/>
+<navPoint id="nav66" playOrder="66"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U019P001.html#unit19"/></navPoint>
+<navPoint id="nav67" playOrder="67"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U019P002.html"/></navPoint></navPoint>
+<navPoint id="nav68" playOrder="68"><navLabel><text>Unit 20: I have done (present perfect) and I did (past)</text></navLabel><content src="html/ESSB01U020P001.html"/>
+<navPoint id="nav69" playOrder="69"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U020P001.html#unit20"/></navPoint>
+<navPoint id="nav70" playOrder="70"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U020P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav71" playOrder="71"><navLabel><text>Passive</text></navLabel><content src="html/ESSB01U021P001.html"/>
+<navPoint id="nav72" playOrder="72"><navLabel><text>Unit 21: is done was done (passive 1)</text></navLabel><content src="html/ESSB01U021P001.html#ch04"/>
+<navPoint id="nav73" playOrder="73"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U021P001.html#unit21"/></navPoint>
+<navPoint id="nav74" playOrder="74"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U021P002.html"/></navPoint></navPoint>
+<navPoint id="nav75" playOrder="75"><navLabel><text>Unit 22: is being done   has been done (passive 2)</text></navLabel><content src="html/ESSB01U022P001.html"/>
+<navPoint id="nav76" playOrder="76"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U022P001.html#unit22"/></navPoint>
+<navPoint id="nav77" playOrder="77"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U022P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav78" playOrder="78"><navLabel><text>Verb forms</text></navLabel><content src="html/ESSB01U023P001.html#ch05"/>
+<navPoint id="nav79" playOrder="79"><navLabel><text>Unit 23: be/have/do in present and past tenses</text></navLabel><content src="html/ESSB01U023P001.html"/>
+<navPoint id="nav80" playOrder="80"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U023P001.html#unit23"/></navPoint>
+<navPoint id="nav81" playOrder="81"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U023P002.html"/></navPoint></navPoint>
+<navPoint id="nav82" playOrder="82"><navLabel><text>Unit 24: Regular and irregular verbs</text></navLabel><content src="html/ESSB01U024P001.html"/>
+<navPoint id="nav83" playOrder="83"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U024P001.html#unit24"/></navPoint>
+<navPoint id="nav84" playOrder="84"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U024P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav85" playOrder="85"><navLabel><text>Future</text></navLabel><content src="html/ESSB01U025P001.html"/>
+<navPoint id="nav86" playOrder="86"><navLabel><text>Unit 25: What are you doing tomorrow?</text></navLabel><content src="html/ESSB01U025P001.html#ch06"/>
+<navPoint id="nav87" playOrder="87"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U025P001.html#unit25"/></navPoint>
+<navPoint id="nav88" playOrder="88"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U025P002.html"/></navPoint></navPoint>
+<navPoint id="nav89" playOrder="89"><navLabel><text>Unit 26: I&#8217;m going to &#8230;</text></navLabel><content src="html/ESSB01U026P001.html"/>
+<navPoint id="nav90" playOrder="90"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U026P001.html#unit26"/></navPoint>
+<navPoint id="nav91" playOrder="91"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U026P002.html"/></navPoint></navPoint>
+<navPoint id="nav92" playOrder="92"><navLabel><text>Unit 27: will/shall 1</text></navLabel><content src="html/ESSB01U027P001.html"/>
+<navPoint id="nav93" playOrder="93"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U027P001.html#unit27"/></navPoint>
+<navPoint id="nav94" playOrder="94"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U027P002.html"/></navPoint></navPoint>
+<navPoint id="nav95" playOrder="95"><navLabel><text>Unit 28: will/shall 2</text></navLabel><content src="html/ESSB01U028P001.html"/>
+<navPoint id="nav96" playOrder="96"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U028P001.html#unit28"/></navPoint>
+<navPoint id="nav97" playOrder="97"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U028P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav98" playOrder="98"><navLabel><text>Modals, imperative etc.</text></navLabel><content src="html/ESSB01U029P001.html"/>
+<navPoint id="nav99" playOrder="99"><navLabel><text>Unit 29: might</text></navLabel><content src="html/ESSB01U029P001.html#ch07"/>
+<navPoint id="nav100" playOrder="100"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U029P001.html#unit29"/></navPoint>
+<navPoint id="nav101" playOrder="101"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U029P002.html"/></navPoint></navPoint>
+<navPoint id="nav102" playOrder="102"><navLabel><text>Unit 30: can and could</text></navLabel><content src="html/ESSB01U030P001.html"/>
+<navPoint id="nav103" playOrder="103"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U030P001.html#unit30"/></navPoint>
+<navPoint id="nav104" playOrder="104"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U030P002.html"/></navPoint></navPoint>
+<navPoint id="nav105" playOrder="105"><navLabel><text>Unit 31: must mustn&#8217;t don&#8217;t need to</text></navLabel><content src="html/ESSB01U031P001.html"/>
+<navPoint id="nav106" playOrder="106"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U031P001.html#unit31"/></navPoint>
+<navPoint id="nav107" playOrder="107"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U031P002.html"/></navPoint></navPoint>
+<navPoint id="nav108" playOrder="108"><navLabel><text>Unit 32: should</text></navLabel><content src="html/ESSB01U032P001.html"/>
+<navPoint id="nav109" playOrder="109"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U032P001.html#unit32"/></navPoint>
+<navPoint id="nav110" playOrder="110"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U032P002.html"/></navPoint></navPoint>
+<navPoint id="nav111" playOrder="111"><navLabel><text>Unit 33: I have to &#8230;</text></navLabel><content src="html/ESSB01U033P001.html"/>
+<navPoint id="nav112" playOrder="112"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U033P001.html#unit33"/></navPoint>
+<navPoint id="nav113" playOrder="113"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U033P002.html"/></navPoint></navPoint>
+<navPoint id="nav114" playOrder="114"><navLabel><text>Unit 34: Would you like &#8230; ? I&#8217;d like &#8230;</text></navLabel><content src="html/ESSB01U034P001.html"/>
+<navPoint id="nav115" playOrder="115"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U034P001.html#unit34"/></navPoint>
+<navPoint id="nav116" playOrder="116"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U034P002.html"/></navPoint></navPoint>
+<navPoint id="nav117" playOrder="117"><navLabel><text>Unit 35: Do this! Don&#8217;t do that! Let&#8217;s do this!</text></navLabel><content src="html/ESSB01U035P001.html"/>
+<navPoint id="nav118" playOrder="118"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U035P001.html#unit35"/></navPoint>
+<navPoint id="nav119" playOrder="119"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U035P002.html"/></navPoint></navPoint>
+<navPoint id="nav120" playOrder="120"><navLabel><text>Unit 36: I used to &#8230;</text></navLabel><content src="html/ESSB01U036P001.html"/>
+<navPoint id="nav121" playOrder="121"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U036P001.html#unit36"/></navPoint>
+<navPoint id="nav122" playOrder="122"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U036P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav123" playOrder="123"><navLabel><text>There and it</text></navLabel><content src="html/ESSB01U037P001.html"/>
+<navPoint id="nav124" playOrder="124"><navLabel><text>Unit 37: there is there are</text></navLabel><content src="html/ESSB01U037P001.html#ch08"/>
+<navPoint id="nav125" playOrder="125"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U037P001.html#unit37"/></navPoint>
+<navPoint id="nav126" playOrder="126"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U037P002.html"/></navPoint></navPoint>
+<navPoint id="nav127" playOrder="127"><navLabel><text>Unit 38: there was/were there has/have been there will be</text></navLabel><content src="html/ESSB01U038P001.html"/>
+<navPoint id="nav128" playOrder="128"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U038P001.html#unit38"/></navPoint>
+<navPoint id="nav129" playOrder="129"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U038P002.html"/></navPoint></navPoint>
+<navPoint id="nav130" playOrder="130"><navLabel><text>Unit 39: It &#8230;</text></navLabel><content src="html/ESSB01U039P001.html"/>
+<navPoint id="nav131" playOrder="131"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U039P001.html#unit39"/></navPoint>
+<navPoint id="nav132" playOrder="132"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U039P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav133" playOrder="133"><navLabel><text>Auxiliary verbs</text></navLabel><content src="html/ESSB01U040P001.html"/>
+<navPoint id="nav134" playOrder="134"><navLabel><text>Unit 40: I am, I don&#8217;t etc.</text></navLabel><content src="html/ESSB01U040P001.html#ch09"/>
+<navPoint id="nav135" playOrder="135"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U040P001.html#unit40"/></navPoint>
+<navPoint id="nav136" playOrder="136"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U040P002.html"/></navPoint></navPoint>
+<navPoint id="nav137" playOrder="137"><navLabel><text>Unit 41: Have you? Are you? Don&#8217;t you? etc.</text></navLabel><content src="html/ESSB01U041P001.html"/>
+<navPoint id="nav138" playOrder="138"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U041P001.html#unit41"/></navPoint>
+<navPoint id="nav139" playOrder="139"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U041P002.html"/></navPoint></navPoint>
+<navPoint id="nav140" playOrder="140"><navLabel><text>Unit 42: too/either so am I / neither do I etc.</text></navLabel><content src="html/ESSB01U042P001.html"/>
+<navPoint id="nav141" playOrder="141"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U042P001.html#unit42"/></navPoint>
+<navPoint id="nav142" playOrder="142"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U042P002.html"/></navPoint></navPoint>
+<navPoint id="nav143" playOrder="143"><navLabel><text>Unit 43: isn&#8217;t, haven&#8217;t, don&#8217;t etc. (negatives)</text></navLabel><content src="html/ESSB01U043P001.html"/>
+<navPoint id="nav144" playOrder="144"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U043P001.html#unit43"/></navPoint>
+<navPoint id="nav145" playOrder="145"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U043P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav146" playOrder="146"><navLabel><text>Questions</text></navLabel><content src="html/ESSB01U044P001.html"/>
+<navPoint id="nav147" playOrder="147"><navLabel><text>Unit 44: is it &#8230; ? have you &#8230; ? do they &#8230; ? etc. (questions 1)</text></navLabel><content src="html/ESSB01U044P001.html#ch10"/>
+<navPoint id="nav148" playOrder="148"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U044P001.html#unit44"/></navPoint>
+<navPoint id="nav149" playOrder="149"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U044P002.html"/></navPoint></navPoint>
+<navPoint id="nav150" playOrder="150"><navLabel><text>Unit 45: Who saw you? Who did you see? (questions 2)</text></navLabel><content src="html/ESSB01U045P001.html"/>
+<navPoint id="nav151" playOrder="151"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U045P001.html#unit45"/></navPoint>
+<navPoint id="nav152" playOrder="152"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U045P002.html"/></navPoint></navPoint>
+<navPoint id="nav153" playOrder="153"><navLabel><text>Unit 46: Who is she talking to? What is it like? (questions 3)</text></navLabel><content src="html/ESSB01U046P001.html"/>
+<navPoint id="nav154" playOrder="154"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U046P001.html#unit46"/></navPoint>
+<navPoint id="nav155" playOrder="155"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U046P002.html"/></navPoint></navPoint>
+<navPoint id="nav156" playOrder="156"><navLabel><text>Unit 47: What &#8230; ? Which &#8230; ? How &#8230; ? (questions 4)</text></navLabel><content src="html/ESSB01U047P001.html"/>
+<navPoint id="nav157" playOrder="157"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U047P001.html#unit47"/></navPoint>
+<navPoint id="nav158" playOrder="158"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U047P002.html"/></navPoint></navPoint>
+<navPoint id="nav159" playOrder="159"><navLabel><text>Unit 48: How long does it take &#8230; ?</text></navLabel><content src="html/ESSB01U048P001.html"/>
+<navPoint id="nav160" playOrder="160"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U048P001.html#unit48"/></navPoint>
+<navPoint id="nav161" playOrder="161"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U048P002.html"/></navPoint></navPoint>
+<navPoint id="nav162" playOrder="162"><navLabel><text>Unit 49: Do you know where &#8230; ? I don&#8217;t know what &#8230; etc.</text></navLabel><content src="html/ESSB01U049P001.html"/>
+<navPoint id="nav163" playOrder="163"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U049P001.html#unit49"/></navPoint>
+<navPoint id="nav164" playOrder="164"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U049P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav165" playOrder="165"><navLabel><text>Reported speech</text></navLabel><content src="html/ESSB01U050P001.html"/>
+<navPoint id="nav166" playOrder="166"><navLabel><text>Unit 50: She said that &#8230; He told me that &#8230;</text></navLabel><content src="html/ESSB01U050P001.html#ch11"/>
+<navPoint id="nav167" playOrder="167"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U050P001.html#unit50"/></navPoint>
+<navPoint id="nav168" playOrder="168"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U050P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav169" playOrder="169"><navLabel><text>-ing and to &#8230;</text></navLabel><content src="html/ESSB01U051P001.html"/>
+<navPoint id="nav170" playOrder="170"><navLabel><text>Unit 51: work/working go/going do/doing</text></navLabel><content src="html/ESSB01U051P001.html#ch12"/>
+<navPoint id="nav171" playOrder="171"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U051P001.html#unit51"/></navPoint>
+<navPoint id="nav172" playOrder="172"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U051P002.html"/></navPoint></navPoint>
+<navPoint id="nav173" playOrder="173"><navLabel><text>Unit 52: to &#8230; (I want to do) and -ing (I enjoy doing)</text></navLabel><content src="html/ESSB01U052P001.html"/>
+<navPoint id="nav174" playOrder="174"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U052P001.html#unit52"/></navPoint>
+<navPoint id="nav175" playOrder="175"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U052P002.html"/></navPoint></navPoint>
+<navPoint id="nav176" playOrder="176"><navLabel><text>Unit 53: I want you to &#8230; I told you to &#8230;</text></navLabel><content src="html/ESSB01U053P001.html"/>
+<navPoint id="nav177" playOrder="177"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U053P001.html#unit53"/></navPoint>
+<navPoint id="nav178" playOrder="178"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U053P002.html"/></navPoint></navPoint>
+<navPoint id="nav179" playOrder="179"><navLabel><text>Unit 54: I went to the shop to &#8230;</text></navLabel><content src="html/ESSB01U054P001.html"/>
+<navPoint id="nav180" playOrder="180"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U054P001.html#unit54"/></navPoint>
+<navPoint id="nav181" playOrder="181"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U054P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav182" playOrder="182"><navLabel><text>Go, get, do, make and have</text></navLabel><content src="html/ESSB01U055P001.html#ch13"/>
+<navPoint id="nav183" playOrder="183"><navLabel><text>Unit 55: go to &#8230; go on &#8230; go for &#8230; go -ing</text></navLabel><content src="html/ESSB01U055P001.html"/>
+<navPoint id="nav184" playOrder="184"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U055P001.html#unit55"/></navPoint>
+<navPoint id="nav185" playOrder="185"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U055P002.html"/></navPoint></navPoint>
+<navPoint id="nav186" playOrder="186"><navLabel><text>Unit 56: get</text></navLabel><content src="html/ESSB01U056P001.html"/>
+<navPoint id="nav187" playOrder="187"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U056P001.html#unit56"/></navPoint>
+<navPoint id="nav188" playOrder="188"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U056P002.html"/></navPoint></navPoint>
+<navPoint id="nav189" playOrder="189"><navLabel><text>Unit 57: do and make</text></navLabel><content src="html/ESSB01U057P001.html"/>
+<navPoint id="nav190" playOrder="190"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U057P001.html#unit57"/></navPoint>
+<navPoint id="nav191" playOrder="191"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U057P002.html"/></navPoint></navPoint>
+<navPoint id="nav192" playOrder="192"><navLabel><text>Unit 58: have</text></navLabel><content src="html/ESSB01U058P001.html"/>
+<navPoint id="nav193" playOrder="193"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U058P001.html#unit58"/></navPoint>
+<navPoint id="nav194" playOrder="194"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U058P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav195" playOrder="195"><navLabel><text>Pronouns and possessives</text></navLabel><content src="html/ESSB01U059P001.html"/>
+<navPoint id="nav196" playOrder="196"><navLabel><text>Unit 59: I/me he/him they/them etc.</text></navLabel><content src="html/ESSB01U059P001.html#ch14"/>
+<navPoint id="nav197" playOrder="197"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U059P001.html#unit59"/></navPoint>
+<navPoint id="nav198" playOrder="198"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U059P002.html"/></navPoint></navPoint>
+<navPoint id="nav199" playOrder="199"><navLabel><text>Unit 60: my/his/their etc.</text></navLabel><content src="html/ESSB01U060P001.html"/>
+<navPoint id="nav200" playOrder="200"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U060P001.html#unit60"/></navPoint>
+<navPoint id="nav201" playOrder="201"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U060P002.html"/></navPoint></navPoint>
+<navPoint id="nav202" playOrder="202"><navLabel><text>Unit 61: Whose is this? It&#8217;s mine/yours/hers etc.</text></navLabel><content src="html/ESSB01U061P001.html"/>
+<navPoint id="nav203" playOrder="203"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U061P001.html#unit61"/></navPoint>
+<navPoint id="nav204" playOrder="204"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U061P002.html"/></navPoint></navPoint>
+<navPoint id="nav205" playOrder="205"><navLabel><text>Unit 62: I/me/my/mine</text></navLabel><content src="html/ESSB01U062P001.html"/>
+<navPoint id="nav206" playOrder="206"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U062P001.html#unit62"/></navPoint>
+<navPoint id="nav207" playOrder="207"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U062P002.html"/></navPoint></navPoint>
+<navPoint id="nav208" playOrder="208"><navLabel><text>Unit 63: myself/yourself/themselves etc.</text></navLabel><content src="html/ESSB01U063P001.html"/>
+<navPoint id="nav209" playOrder="209"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U063P001.html#unit63"/></navPoint>
+<navPoint id="nav210" playOrder="210"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U063P002.html"/></navPoint></navPoint>
+<navPoint id="nav211" playOrder="211"><navLabel><text>Unit 64: -&#8217;s (Kate&#8217;s camera / my brother&#8217;s car etc.)</text></navLabel><content src="html/ESSB01U064P001.html"/>
+<navPoint id="nav212" playOrder="212"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U064P001.html#unit64"/></navPoint>
+<navPoint id="nav213" playOrder="213"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U064P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav214" playOrder="214"><navLabel><text>A and the</text></navLabel><content src="html/ESSB01U065P001.html"/>
+<navPoint id="nav215" playOrder="215"><navLabel><text>Unit 65: a/an &#8230;</text></navLabel><content src="html/ESSB01U065P001.html#ch15"/>
+<navPoint id="nav216" playOrder="216"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U065P001.html#unit65"/></navPoint>
+<navPoint id="nav217" playOrder="217"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U065P002.html"/></navPoint></navPoint>
+<navPoint id="nav218" playOrder="218"><navLabel><text>Unit 66: train(s) bus(es) (singular and plural)</text></navLabel><content src="html/ESSB01U066P001.html"/>
+<navPoint id="nav219" playOrder="219"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U066P001.html#unit66"/></navPoint>
+<navPoint id="nav220" playOrder="220"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U066P002.html"/></navPoint></navPoint>
+<navPoint id="nav221" playOrder="221"><navLabel><text>Unit 67: a bottle / some water (countable/uncountable 1)</text></navLabel><content src="html/ESSB01U067P001.html"/>
+<navPoint id="nav222" playOrder="222"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U067P001.html#unit67"/></navPoint>
+<navPoint id="nav223" playOrder="223"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U067P002.html"/></navPoint></navPoint>
+<navPoint id="nav224" playOrder="224"><navLabel><text>Unit 68: a cake / some cake / some cakes (countable/uncountable 2)</text></navLabel><content src="html/ESSB01U068P001.html"/>
+<navPoint id="nav225" playOrder="225"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U068P001.html#unit68"/></navPoint>
+<navPoint id="nav226" playOrder="226"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U068P002.html"/></navPoint></navPoint>
+<navPoint id="nav227" playOrder="227"><navLabel><text>Unit 69: a/an and the</text></navLabel><content src="html/ESSB01U069P001.html"/>
+<navPoint id="nav228" playOrder="228"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U069P001.html#unit69"/></navPoint>
+<navPoint id="nav229" playOrder="229"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U069P002.html"/></navPoint></navPoint>
+<navPoint id="nav230" playOrder="230"><navLabel><text>Unit 70: the &#8230;</text></navLabel><content src="html/ESSB01U070P001.html"/>
+<navPoint id="nav231" playOrder="231"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U070P001.html#unit70"/></navPoint>
+<navPoint id="nav232" playOrder="232"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U070P002.html"/></navPoint></navPoint>
+<navPoint id="nav233" playOrder="233"><navLabel><text>Unit 71: go to work go home go to the cinema</text></navLabel><content src="html/ESSB01U071P001.html"/>
+<navPoint id="nav234" playOrder="234"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U071P001.html#unit71"/></navPoint>
+<navPoint id="nav235" playOrder="235"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U071P002.html"/></navPoint></navPoint>
+<navPoint id="nav236" playOrder="236"><navLabel><text>Unit 72: I like music I hate exams</text></navLabel><content src="html/ESSB01U072P001.html"/>
+<navPoint id="nav237" playOrder="237"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U072P001.html#unit72"/></navPoint>
+<navPoint id="nav238" playOrder="238"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U072P002.html"/></navPoint></navPoint>
+<navPoint id="nav239" playOrder="239"><navLabel><text>Unit 73: the &#8230; (names of places)</text></navLabel><content src="html/ESSB01U073P001.html"/>
+<navPoint id="nav240" playOrder="240"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U073P001.html#unit73"/></navPoint>
+<navPoint id="nav241" playOrder="241"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U073P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav242" playOrder="242"><navLabel><text>Determiners and pronouns</text></navLabel><content src="html/ESSB01U074P001.html"/>
+<navPoint id="nav243" playOrder="243"><navLabel><text>Unit 74: this/that/these/those</text></navLabel><content src="html/ESSB01U074P001.html#ch16"/>
+<navPoint id="nav244" playOrder="244"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U074P001.html#unit74"/></navPoint>
+<navPoint id="nav245" playOrder="245"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U074P002.html"/></navPoint></navPoint>
+<navPoint id="nav246" playOrder="246"><navLabel><text>Unit 75: one/ones</text></navLabel><content src="html/ESSB01U075P001.html"/>
+<navPoint id="nav247" playOrder="247"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U075P001.html#unit75"/></navPoint>
+<navPoint id="nav248" playOrder="248"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U075P002.html"/></navPoint></navPoint>
+<navPoint id="nav249" playOrder="249"><navLabel><text>Unit 76: some and any</text></navLabel><content src="html/ESSB01U076P001.html"/>
+<navPoint id="nav250" playOrder="250"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U076P001.html#unit76"/></navPoint>
+<navPoint id="nav251" playOrder="251"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U076P002.html"/></navPoint></navPoint>
+<navPoint id="nav252" playOrder="252"><navLabel><text>Unit 77: not + any no none</text></navLabel><content src="html/ESSB01U077P001.html"/>
+<navPoint id="nav253" playOrder="253"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U077P001.html#unit77"/></navPoint>
+<navPoint id="nav254" playOrder="254"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U077P002.html"/></navPoint></navPoint>
+<navPoint id="nav255" playOrder="255"><navLabel><text>Unit 78: not + anybody/anyone/anything nobody/no-one/nothing</text></navLabel><content src="html/ESSB01U078P001.html"/>
+<navPoint id="nav256" playOrder="256"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U078P001.html#unit78"/></navPoint>
+<navPoint id="nav257" playOrder="257"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U078P002.html"/></navPoint></navPoint>
+<navPoint id="nav258" playOrder="258"><navLabel><text>Unit 79: somebody/anything/nowhere etc.</text></navLabel><content src="html/ESSB01U079P001.html"/>
+<navPoint id="nav259" playOrder="259"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U079P001.html#unit79"/></navPoint>
+<navPoint id="nav260" playOrder="260"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U079P002.html"/></navPoint></navPoint>
+<navPoint id="nav261" playOrder="261"><navLabel><text>Unit 80: every and all</text></navLabel><content src="html/ESSB01U080P001.html"/>
+<navPoint id="nav262" playOrder="262"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U080P001.html#unit80"/></navPoint>
+<navPoint id="nav263" playOrder="263"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U080P002.html"/></navPoint></navPoint>
+<navPoint id="nav264" playOrder="264"><navLabel><text>Unit 81: all most some any no/none</text></navLabel><content src="html/ESSB01U081P001.html"/>
+<navPoint id="nav265" playOrder="265"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U081P001.html#unit81"/></navPoint>
+<navPoint id="nav266" playOrder="266"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U081P002.html"/></navPoint></navPoint>
+<navPoint id="nav267" playOrder="267"><navLabel><text>Unit 82: both either neither</text></navLabel><content src="html/ESSB01U082P001.html"/>
+<navPoint id="nav268" playOrder="268"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U082P001.html#unit82"/></navPoint>
+<navPoint id="nav269" playOrder="269"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U082P002.html"/></navPoint></navPoint>
+<navPoint id="nav270" playOrder="270"><navLabel><text>Unit 83: a lot much many</text></navLabel><content src="html/ESSB01U083P001.html"/>
+<navPoint id="nav271" playOrder="271"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U083P001.html#unit83"/></navPoint>
+<navPoint id="nav272" playOrder="272"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U083P002.html"/></navPoint></navPoint>
+<navPoint id="nav273" playOrder="273"><navLabel><text>Unit 84: (a) little (a) few</text></navLabel><content src="html/ESSB01U084P001.html"/>
+<navPoint id="nav274" playOrder="274"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U084P001.html#unit84"/></navPoint>
+<navPoint id="nav275" playOrder="275"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U084P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav276" playOrder="276"><navLabel><text>Adjectives and adverbs</text></navLabel><content src="html/ESSB01U085P001.html"/>
+<navPoint id="nav277" playOrder="277"><navLabel><text>Unit 85: old/nice/interesting etc. (adjectives)</text></navLabel><content src="html/ESSB01U085P001.html#ch17"/>
+<navPoint id="nav278" playOrder="278"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U085P001.html#unit85"/></navPoint>
+<navPoint id="nav279" playOrder="279"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U085P002.html"/></navPoint></navPoint>
+<navPoint id="nav280" playOrder="280"><navLabel><text>Unit 86: quickly/badly/suddenly etc. (adverbs)</text></navLabel><content src="html/ESSB01U086P001.html"/>
+<navPoint id="nav281" playOrder="281"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U086P001.html#unit86"/></navPoint>
+<navPoint id="nav282" playOrder="282"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U086P002.html"/></navPoint></navPoint>
+<navPoint id="nav283" playOrder="283"><navLabel><text>Unit 87: old/older expensive / more expensive</text></navLabel><content src="html/ESSB01U087P001.html"/>
+<navPoint id="nav284" playOrder="284"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U087P001.html#unit87"/></navPoint>
+<navPoint id="nav285" playOrder="285"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U087P002.html"/></navPoint></navPoint>
+<navPoint id="nav286" playOrder="286"><navLabel><text>Unit 88: older than &#8230; more expensive than &#8230;</text></navLabel><content src="html/ESSB01U088P001.html"/>
+<navPoint id="nav287" playOrder="287"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U088P001.html#unit88"/></navPoint>
+<navPoint id="nav288" playOrder="288"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U088P002.html"/></navPoint></navPoint>
+<navPoint id="nav289" playOrder="289"><navLabel><text>Unit 89: not as &#8230; as</text></navLabel><content src="html/ESSB01U089P001.html"/>
+<navPoint id="nav290" playOrder="290"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U089P001.html#unit89"/></navPoint>
+<navPoint id="nav291" playOrder="291"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U089P002.html"/></navPoint></navPoint>
+<navPoint id="nav292" playOrder="292"><navLabel><text>Unit 90: the oldest the most expensive</text></navLabel><content src="html/ESSB01U090P001.html"/>
+<navPoint id="nav293" playOrder="293"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U090P001.html#unit90"/></navPoint>
+<navPoint id="nav294" playOrder="294"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U090P002.html"/></navPoint></navPoint>
+<navPoint id="nav295" playOrder="295"><navLabel><text>Unit 91: enough</text></navLabel><content src="html/ESSB01U091P001.html"/>
+<navPoint id="nav296" playOrder="296"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U091P001.html#unit91"/></navPoint>
+<navPoint id="nav297" playOrder="297"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U091P002.html"/></navPoint></navPoint>
+<navPoint id="nav298" playOrder="298"><navLabel><text>Unit 92: too</text></navLabel><content src="html/ESSB01U092P001.html"/>
+<navPoint id="nav299" playOrder="299"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U092P001.html#unit92"/></navPoint>
+<navPoint id="nav300" playOrder="300"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U092P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav301" playOrder="301"><navLabel><text>Word order</text></navLabel><content src="html/ESSB01U093P001.html"/>
+<navPoint id="nav302" playOrder="302"><navLabel><text>Unit 93: He speaks English very well. (word order 1)</text></navLabel><content src="html/ESSB01U093P001.html#ch18"/>
+<navPoint id="nav303" playOrder="303"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U093P001.html#unit93"/></navPoint>
+<navPoint id="nav304" playOrder="304"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U093P002.html"/></navPoint></navPoint>
+<navPoint id="nav305" playOrder="305"><navLabel><text>Unit 94: always/usually/often etc. (word order 2)</text></navLabel><content src="html/ESSB01U094P001.html"/>
+<navPoint id="nav306" playOrder="306"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U094P001.html#unit94"/></navPoint>
+<navPoint id="nav307" playOrder="307"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U094P002.html"/></navPoint></navPoint>
+<navPoint id="nav308" playOrder="308"><navLabel><text>Unit 95: still yet already</text></navLabel><content src="html/ESSB01U095P001.html"/>
+<navPoint id="nav309" playOrder="309"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U095P001.html#unit95"/></navPoint>
+<navPoint id="nav310" playOrder="310"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U095P002.html"/></navPoint></navPoint>
+<navPoint id="nav311" playOrder="311"><navLabel><text>Unit 96: Give me that book! Give it to me!</text></navLabel><content src="html/ESSB01U096P001.html"/>
+<navPoint id="nav312" playOrder="312"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U096P001.html#unit96"/></navPoint>
+<navPoint id="nav313" playOrder="313"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U096P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav314" playOrder="314"><navLabel><text>Conjunctions and clauses</text></navLabel><content src="html/ESSB01U097P001.html"/>
+<navPoint id="nav315" playOrder="315"><navLabel><text>Unit 97: and but or so because</text></navLabel><content src="html/ESSB01U097P001.html#ch19"/>
+<navPoint id="nav316" playOrder="316"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U097P001.html#unit97"/></navPoint>
+<navPoint id="nav317" playOrder="317"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U097P002.html"/></navPoint></navPoint>
+<navPoint id="nav318" playOrder="318"><navLabel><text>Unit 98: When &#8230;</text></navLabel><content src="html/ESSB01U098P001.html"/>
+<navPoint id="nav319" playOrder="319"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U098P001.html#unit98"/></navPoint>
+<navPoint id="nav320" playOrder="320"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U098P002.html"/></navPoint></navPoint>
+<navPoint id="nav321" playOrder="321"><navLabel><text>Unit 99: If we go &#8230; If you see &#8230; etc.</text></navLabel><content src="html/ESSB01U099P001.html"/>
+<navPoint id="nav322" playOrder="322"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U099P001.html#unit99"/></navPoint>
+<navPoint id="nav323" playOrder="323"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U099P002.html"/></navPoint></navPoint>
+<navPoint id="nav324" playOrder="324"><navLabel><text>Unit 100: If I had &#8230; If we went &#8230; etc.</text></navLabel><content src="html/ESSB01U100P001.html"/>
+<navPoint id="nav325" playOrder="325"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U100P001.html#unit100"/></navPoint>
+<navPoint id="nav326" playOrder="326"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U100P002.html"/></navPoint></navPoint>
+<navPoint id="nav327" playOrder="327"><navLabel><text>Unit 101: a person who &#8230; a thing that/which &#8230; (relative clauses 1)</text></navLabel><content src="html/ESSB01U101P001.html"/>
+<navPoint id="nav328" playOrder="328"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U101P001.html#unit101"/></navPoint>
+<navPoint id="nav329" playOrder="329"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U101P002.html"/></navPoint></navPoint>
+<navPoint id="nav330" playOrder="330"><navLabel><text>Unit 102: the people we met the hotel you stayed at (relative clauses 2)</text></navLabel><content src="html/ESSB01U102P001.html"/>
+<navPoint id="nav331" playOrder="331"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U102P001.html#unit102"/></navPoint>
+<navPoint id="nav332" playOrder="332"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U102P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav333" playOrder="333"><navLabel><text>Prepositions</text></navLabel><content src="html/ESSB01U103P001.html"/>
+<navPoint id="nav334" playOrder="334"><navLabel><text>Unit 103: at 8 o&#8217;clock on Monday in April</text></navLabel><content src="html/ESSB01U103P001.html#ch20"/>
+<navPoint id="nav335" playOrder="335"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U103P001.html#unit103"/></navPoint>
+<navPoint id="nav336" playOrder="336"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U103P002.html"/></navPoint></navPoint>
+<navPoint id="nav337" playOrder="337"><navLabel><text>Unit 104: from &#8230; to until since for</text></navLabel><content src="html/ESSB01U104P001.html"/>
+<navPoint id="nav338" playOrder="338"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U104P001.html#unit104"/></navPoint>
+<navPoint id="nav339" playOrder="339"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U104P002.html"/></navPoint></navPoint>
+<navPoint id="nav340" playOrder="340"><navLabel><text>Unit 105: before after during while</text></navLabel><content src="html/ESSB01U105P001.html"/>
+<navPoint id="nav341" playOrder="341"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U105P001.html#unit105"/></navPoint>
+<navPoint id="nav342" playOrder="342"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U105P002.html"/></navPoint></navPoint>
+<navPoint id="nav343" playOrder="343"><navLabel><text>Unit 106: in at on (places 1)</text></navLabel><content src="html/ESSB01U106P001.html"/>
+<navPoint id="nav344" playOrder="344"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U106P001.html#unit106"/></navPoint>
+<navPoint id="nav345" playOrder="345"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U106P002.html"/></navPoint></navPoint>
+<navPoint id="nav346" playOrder="346"><navLabel><text>Unit 107: in at on (places 2)</text></navLabel><content src="html/ESSB01U107P001.html"/>
+<navPoint id="nav347" playOrder="347"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U107P001.html#unit107"/></navPoint>
+<navPoint id="nav348" playOrder="348"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U107P002.html"/></navPoint></navPoint>
+<navPoint id="nav349" playOrder="349"><navLabel><text>Unit 108: to in at (places 3)</text></navLabel><content src="html/ESSB01U108P001.html"/>
+<navPoint id="nav350" playOrder="350"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U108P001.html#unit108"/></navPoint>
+<navPoint id="nav351" playOrder="351"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U108P002.html"/></navPoint></navPoint>
+<navPoint id="nav352" playOrder="352"><navLabel><text>Unit 109: under, behind, opposite etc.</text></navLabel><content src="html/ESSB01U109P001.html"/>
+<navPoint id="nav353" playOrder="353"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U109P001.html#unit109"/></navPoint>
+<navPoint id="nav354" playOrder="354"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U109P002.html"/></navPoint></navPoint>
+<navPoint id="nav355" playOrder="355"><navLabel><text>Unit 110: up, over, through etc.</text></navLabel><content src="html/ESSB01U110P001.html"/>
+<navPoint id="nav356" playOrder="356"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U110P001.html#unit110"/></navPoint>
+<navPoint id="nav357" playOrder="357"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U110P002.html"/></navPoint></navPoint>
+<navPoint id="nav358" playOrder="358"><navLabel><text>Unit 111: on at by with about</text></navLabel><content src="html/ESSB01U111P001.html"/>
+<navPoint id="nav359" playOrder="359"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U111P001.html#unit111"/></navPoint>
+<navPoint id="nav360" playOrder="360"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U111P002.html"/></navPoint></navPoint>
+<navPoint id="nav361" playOrder="361"><navLabel><text>Unit 112: afraid of &#8230; , good at &#8230; etc. of/at/for etc. (prepositions) + -ing</text></navLabel><content src="html/ESSB01U112P001.html"/>
+<navPoint id="nav362" playOrder="362"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U112P001.html#unit112"/></navPoint>
+<navPoint id="nav363" playOrder="363"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U112P002.html"/></navPoint></navPoint>
+<navPoint id="nav364" playOrder="364"><navLabel><text>Unit 113: listen to &#8230; , look at &#8230; etc. (verb + preposition)</text></navLabel><content src="html/ESSB01U113P001.html"/>
+<navPoint id="nav365" playOrder="365"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U113P001.html#unit113"/></navPoint>
+<navPoint id="nav366" playOrder="366"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U113P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav367" playOrder="367"><navLabel><text>Phrasal verbs</text></navLabel><content src="html/ESSB01U114P001.html"/>
+<navPoint id="nav368" playOrder="368"><navLabel><text>Unit 114: go in, fall off, run away etc. (phrasal verbs 1)</text></navLabel><content src="html/ESSB01U114P001.html#ch21"/>
+<navPoint id="nav369" playOrder="369"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U114P001.html#unit114"/></navPoint>
+<navPoint id="nav370" playOrder="370"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U114P002.html"/></navPoint></navPoint>
+<navPoint id="nav371" playOrder="371"><navLabel><text>Unit 115: put on your shoes put your shoes on (phrasal verbs 2)</text></navLabel><content src="html/ESSB01U115P001.html"/>
+<navPoint id="nav372" playOrder="372"><navLabel><text>Explanations</text></navLabel><content src="html/ESSB01U115P001.html#unit115"/></navPoint>
+<navPoint id="nav373" playOrder="373"><navLabel><text>Exercises</text></navLabel><content src="html/ESSB01U115P002.html"/></navPoint></navPoint></navPoint>
+<navPoint id="nav374" playOrder="374"><navLabel><text>Appendices</text></navLabel><content src="html/ESSB01APPDX001.html"/>
+<navPoint id="nav375" playOrder="375"><navLabel><text>Appendix 1 Active and passive</text></navLabel><content src="html/ESSB01APPDX001.html#ch22"/></navPoint>
+<navPoint id="nav376" playOrder="376"><navLabel><text>Appendix 2 List of irregular verbs</text></navLabel><content src="html/ESSB01APPDX002.html"/></navPoint>
+<navPoint id="nav377" playOrder="377"><navLabel><text>Appendix 3 Irregular verbs in groups</text></navLabel><content src="html/ESSB01APPDX003.html"/></navPoint>
+<navPoint id="nav378" playOrder="378"><navLabel><text>Appendix 4 Short forms (he&#8217;s / I&#8217;d / don&#8217;t etc.)</text></navLabel><content src="html/ESSB01APPDX004.html"/></navPoint>
+<navPoint id="nav379" playOrder="379"><navLabel><text>Appendix 5 Spelling</text></navLabel><content src="html/ESSB01APPDX006.html"/></navPoint>
+<navPoint id="nav380" playOrder="380"><navLabel><text>Appendix 6 Phrasal verbs (take off / give up etc.)</text></navLabel><content src="html/ESSB01APPDX008.html"/></navPoint>
+<navPoint id="nav381" playOrder="381"><navLabel><text>Appendix 7 Phrasal verbs + object (put out a fire / give up your job etc.)</text></navLabel><content src="html/ESSB01APPDX009.html"/></navPoint></navPoint>
+<navPoint id="nav382" playOrder="382"><navLabel><text>Additional exercises</text></navLabel><content src="html/ESSB01ADEXP001.html"/></navPoint>
+<navPoint id="nav383" playOrder="383"><navLabel><text>Study guide</text></navLabel><content src="html/ESSB01SGUIDE001.html"/></navPoint>
+<navPoint id="nav384" playOrder="384"><navLabel><text>Acknowledgements</text></navLabel><content src="html/acknowledgements.html"/></navPoint>
+<navPoint id="nav385" playOrder="385"><navLabel><text>Imprint</text></navLabel><content src="html/Imprint.html"/></navPoint>
+</navMap>
+</ncx>

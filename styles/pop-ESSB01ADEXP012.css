@@ -1,0 +1,315 @@
+@font-face{font-family:"SourceSansPro-Semibold";src:url('../fonts/SourceSansPro-Semibold.otf');}
+@font-face{font-family:"SourceSansPro-Regular";src:url('../fonts/SourceSansPro-Regular.otf');}
+@font-face{font-family:"SourceSansPro-Light";src:url('../fonts/SourceSansPro-Light.otf');}
+@font-face{font-family:"SourceSansPro-It";src:url('../fonts/SourceSansPro-It.otf');}
+@font-face{font-family:"SourceSansPro-Bold";src:url('../fonts/SourceSansPro-Bold.otf');}
+@font-face{font-family:"CronosPro-Semibold";src:url('../fonts/CronosPro-Semibold.otf');}
+@font-face{font-family:"CronosPro-Regular";src:url('../fonts/CronosPro-Regular.otf');}
+@font-face{font-family:"CronosPro-Lt";src:url('../fonts/CronosPro-Lt.otf');}
+@font-face{font-family:"CronosPro-Italic";src:url('../fonts/CronosPro-Italic.otf');}
+body {
+position: absolute;
+width:962px;
+height:1310px;
+left:0px;
+margin:0px;
+}
+.outline2 {
+position:relative;
+left:35px;
+top:20px;
+border:2px solid #f7d6ae;
+border-radius:10px;
+width:818px;
+height:45px;
+}
+.outline3 {
+position:relative;
+left:35px;
+top:20px;
+border:2px solid #f7d6ae;
+border-radius:10px;
+width:710px;
+height:45px;
+}
+.header {
+position:relative;
+border-top-left-radius:22px;
+border-top-right-radius:22px;
+width:962px;
+height:58px;
+background-color:#c02012;
+}
+.exe {
+position:relative;
+font-family:'SourceSansPro-Bold';
+font-size:25px;
+color:#ffffff;
+padding-top:12px;
+margin-left:35px;
+}
+.rubric {
+position:relative;
+font-family:'CronosPro-Regular';
+font-size:27px;
+margin-top:22px;
+margin-left:35px;
+}
+.rubric0 {
+position:relative;
+font-family:'SourceSansPro-Semibold';
+font-size:27px;
+margin-top:0px;
+margin-left:35px;
+}
+.rubric1 {
+position:relative;
+font-family:'SourceSansPro-Semibold';
+font-size:27px;
+margin-top:42px;
+margin-left:35px;
+}
+.pg12_question-top {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:22px;
+margin-left:35px;
+}
+.pg12_question {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:18px;
+margin-left:33px;
+}
+.pg12_question1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:20px;
+margin-left:35px;
+}
+.pg12_question-hang {
+position:relative;
+font-family:'SourceSansPro-Regular';
+font-size: 27px;
+margin-top:21px;
+margin-left:80px;
+text-indent:-40px;
+}
+span.bold
+{
+font-family:'SourceSansPro-Semibold';
+}
+span.italic
+{
+font-family:'SourceSansPro-It';
+}
+.pg12_answer
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+background-color:#ffff94;
+margin-top:10px;
+margin-right:10px;
+margin-left:64px;
+margin-bottom:-8px;
+padding:10px 15px 10px 15px;
+}
+.pg12_answere3
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+background-color:#ffff94;
+margin:10px 30px 10px 75px;
+padding:10px 25px 10px 15px;
+}
+.pg12_answer1
+{
+position:relative;
+font-family:'SourceSansPro-Regular';
+font-size:27px;
+border-radius:25px;
+background-color:#ffff94;
+margin:10px 10px 10px 20px;
+padding:10px 25px 10px 15px;
+}
+.danswer
+{
+position:relative;
+font-family:'SourceSansPro-Regular';
+font-size:27px;
+border-radius:25px;
+background-color:#ffffff;
+margin:10px 30px 10px 70px;
+padding:10px 25px 10px 15px;
+}
+.pg12_answer-nt
+{
+position:relative;
+font-family:'SourceSansPro-Regular';
+font-size:27px;
+border-radius:25px;
+background-color:#ffff94;
+margin:0px 30px 0px 70px;
+padding:10px 25px 10px 15px;
+}
+.leftpadding
+{
+position:relative;
+margin-left:180px;
+margin-top:40px;
+}
+.pg12_tquestions {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:30px;
+margin-left:20px;
+}
+.pg12_tanswer
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:26.5px;
+border-radius:25px;
+background-color:#ffff94;
+margin:5px 5px 5px 0px;
+padding:10px 25px 10px 15px;
+}
+.pg12_tanswer1
+{
+position:relative;
+font-family:'SourceSansPro-Light';
+font-size:27px;
+border-radius:25px;
+background-color:#ffff94;
+padding:10px 15px 10px 15px;
+margin-bottom:-5px;
+margin-top:5px;
+}
+.pg012_text
+{
+font-size:27px;
+font-family:'CronosPro-Semibold';
+color:#c12012;
+position: absolute;
+left:243px;
+top:142px;
+}
+.pg012_text1
+{
+position: absolute;
+font-size:27px;
+font-family:'CronosPro-Regular';
+top:142px;
+left:504px;
+}
+.pg012_text2
+{
+font-size:27px;
+font-family:'CronosPro-Semibold';
+color:#c12012;
+position: absolute;
+top:142px;
+left:557px;
+}
+.pg012_text3
+{
+font-size:27px;
+font-family:'CronosPro-Lt';
+position: absolute;
+top:192px;
+left:815px;
+}
+.pg12_question3 {
+position:relative;
+font-family:'CronosPro-Semibold';
+font-size: 27px;
+margin-top:6px;
+margin-left:11px;
+}
+.pg12_question-top1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:50px;
+margin-left:33px;
+}
+.citalic
+{
+font-family:'CronosPro-Italic';
+}
+.pg12_question-topa {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:31px;
+margin-left:37px;
+}
+.pg12_question-topa1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:30px;
+margin-left:68px;
+}
+.small
+{
+font-size:20px;
+}
+.pg12_questiona {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:23px;
+margin-left:37px;
+}
+.pg12_questiona1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:30px;
+margin-left:68px;
+}
+.pg12_questionab {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:21px;
+margin-bottom:0px;
+margin-left:37px;
+}
+.pg12_questionab1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:10px;
+margin-left:68px;
+}
+.pg12_question-topab {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:25px;
+margin-left:37px;
+}
+.pg12_question-topab1 {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:8px;
+margin-left:60px;
+}
+.pg12_question-num {
+position:relative;
+font-family:'CronosPro-Lt';
+font-size: 27px;
+margin-top:18px;
+margin-left:23px;
+}

@@ -1,0 +1,99 @@
+@font-face{font-family:"CronosPro-Bold";src:url('../fonts/CronosPro-Bold.otf');}
+@font-face{font-family:"CronosPro-Lt";src:url('../fonts/CronosPro-Lt.otf');}
+@font-face{font-family:"CronosPro-LtIt";src:url('../fonts/CronosPro-LtIt.otf');}
+@font-face{font-family:"CronosPro-Regular";src:url('../fonts/CronosPro-Regular.otf');}
+@font-face{font-family:"CronosPro-Semibold";src:url('../fonts/CronosPro-Semibold.otf');}
+@font-face{font-family:"SourceSansPro-Bold";src:url('../fonts/SourceSansPro-Bold.otf');}
+@font-face{font-family:"SourceSansPro-Light";src:url('../fonts/SourceSansPro-Light.otf');}
+@font-face{font-family:"SourceSansPro-LightIt";src:url('../fonts/SourceSansPro-LightIt.otf');}
+@font-face{font-family:"SourceSansPro-Regular";src:url('../fonts/SourceSansPro-Regular.otf');}
+@font-face{font-family:"SourceSansPro-Semibold";src:url('../fonts/SourceSansPro-Semibold.otf');}
+@font-face{font-family:"SourceSansPro-SemiboldIt";src:url('../fonts/SourceSansPro-SemiboldIt.otf');}
+@font-face{font-family:"SymbolStd";src:url('../fonts/SymbolStd.otf');}
+@font-face{font-family:"TektonPro-Regular";src:url('../fonts/TektonPro-Regular.otf');}
+@font-face{font-family:"ZapfDingbatsStd";src:url('../fonts/ZapfDingbatsStd.otf');}
+@font-face{font-family:"CronosPro-Italic";src:url('../fonts/CronosPro-Italic.otf');}
+
+.saveOn{content: url(../images/save.png);}
+.saveOff{content: url(../images/save_disabled.png);}
+.showOn{content: url(../images/show.png);}
+.showOff{content: url(../images/show_disabled.png);}
+.clearOn{content: url(../images/clear.png);}
+.clearOff{content: url(../images/clear_disabled.png);}
+.reloadOn{content: url(../images/reload.png);}
+.reloadOff{content: url(../images/reload_disabled.png);}
+.outline{
+position:absolute;
+left:0px;
+top:0px;
+border:3px solid #e18700;
+border-radius:25px;
+/*width:900px;*/
+/*height:1280px;*/
+width:962px;
+height:1310px;
+box-shadow: 8px 8px 5px #bfbfbf;
+-moz-box-shadow: 8px 8px 5px #bfbfbf;
+-webkit-box-shadow: 8px 8px 5px #bfbfbf;
+background-color:#ffffff;}
+a.anone{text-decoration:inherit;color:inherit;}
+.headbold{font-family:'CronosPro-Semibold';font-size:38.331551px;}
+.semibold{font-family:'CronosPro-Semibold';}
+.ltitalic{font-family:'CronosPro-LtIt';}
+.regular{font-family:'CronosPro-Regular';}
+.light{font-family:'CronosPro-Lt';}
+.red{color:#C00C0D;}
+.red1{color:#C00C0D;font-family:'CronosPro-Semibold';}
+.underline{text-decoration:underline;color:#C00C0D;}
+.ulb{text-decoration:underline;color:#000000;}
+.ulbold{font-family:'CronosPro-Semibold';text-decoration:underline;color:#000000;}
+.ulwhite{font-family:'CronosPro-Semibold';text-decoration:underline;}
+.bold{font-family:'CronosPro-Semibold';}
+.italic{font-family:'CronosPro-LtIt';}
+.normal{font-family:'CronosPro-Lt';}
+.scaps{font-size:15px;}
+.scapsz{font-size:15px;}
+.scapspu{font-size:20px;}
+.scapspu1{font-size:16px;}
+.scaps1{font-size:22px;}
+.arrow{font-family:'SymbolStd';font-size:20.078430px;}
+.arrow1{font-family:'SymbolStd';font-size:20.078430px;}
+.tafont{font-family:'SourceSansPro-Light';font-size: 27px;}
+.underline-nor{text-decoration:underline;color:#c00d0e;}
+.underline-nor-cls{text-decoration:underline;color:#c00d0e;font-family:'CronosPro-Semibold';}
+.zap{font-family:'ZapfDingbatsStd';}
+.sb{font-family:'SourceSansPro-Semibold';}
+.sb1{font-family:'SourceSansPro-Regular';}
+.sb-red{font-family:'CronosPro-Semibold';color:#c12012;}
+.sb-red1{font-family:'CronosPro-Bold';color:#c12012;}
+.sb-yel{font-family:'SourceSansPro-Bold';color:#fef271;}
+.sb-i{font-family:'SourceSansPro-SemiboldIt';}
+.sbi{font-family:'SourceSansPro-SemiboldIt';}
+.sbc{font-family:'CronosPro-Semibold';}
+.sspi{font-family:'SourceSansPro-LightIt';}
+.black{color:#000000;}
+.shadow{text-shadow: 0px 0px 20px #c12012;}
+.color{font-family:'CronosPro-Semibold';color:#c00d0e;}
+.tek{font-family:'TektonPro-Regular';}
+.smallcap{font-size: 80%;}
+.answer-I{font-family:'SourceSansPro-SemiboldIt';}
+span.CronosPro-Lt{font-family:'CronosPro-Lt';}
+.strike{text-decoration:line-through;color:#C00C0D;}
+.strikeout{position: relative;}
+.strikeout::after{
+border-bottom: 1px solid #C00C0D;
+content: "";
+position: absolute;
+left: 0;
+right: 0;
+top: 55%;}
+
+.anone
+{
+text-decoration:none;
+color:inherit;
+}
+
+.grayOn{content:url(../images/radioOn-green.png);}
+.grayOff{content:url(../images/radioOff-green.png);}
+
